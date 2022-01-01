@@ -4,8 +4,8 @@ npm run dev
 <!DOCTYPE html>
   <html>
   <head>
-  <title>First site<title>
-    <h6>Welcome to my first site!<h6>
-      <h3>Feel like it is your home!<h3>
-        Maybe you like <a href="https://github.com/">this<a>
+  <title>First site</title>
+    <h6>Welcome to my first site!<h/6>
+      <h3>Feel like it is your home!</h3>
+        <p>Maybe you like <a href="https://github.com/">this</a></p>
           
