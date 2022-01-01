@@ -1,11 +1,11 @@
-<form name="contact" netlify>
-  <p>
-    <label>Name <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Email <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+git clone https://github.com/netlify-templates/next-netlify-starter.git
+npm install
+run npm dev
+<!DOCTYPE html>
+  <html>
+  <body>
+  <title>First site</title>
+<h1>You better click <a href="https://www.youtube.com/">this</a>
+  </body>
+</html>
+
