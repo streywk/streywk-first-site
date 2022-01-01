@@ -1,8 +1,11 @@
+git clone https://github.com/netlify-templates/next-netlify-starter.git
+npm install
+npm run dev
 <!DOCTYPE html>
   <html>
-  <body>
+  <head>
   <title>First site<title>
     <h6>Welcome to my first site!<h6>
-      <h1>I owe you some money and I am not gonna give them to you!<h6>
-        <h2>HAHA!<h2>
-        
+      <h3>Feel like it is your home!<h3>
+        Maybe you like <a href="https://github.com/">this<a>
+          
